@@ -1,3 +1,8 @@
+#Programa feito por Juliano Bock da Silva do curso de Redes de Computador da Alcides Maya.
+#Programa tem como finalidade instalar SSH e Configurar usando o editor de texto Nano.
+
+
+
 #!/bin/bash
 
 #Comando utilizado para instalar o SSH
