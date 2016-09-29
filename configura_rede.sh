@@ -1,10 +1,7 @@
 #Programa feito por Juliano Bock da Silva do curso de Redes de Computador da Alcides Maya.
 #Programa tem como finalidade mostrar informações e alterar nome de host
 
-
 #!/bin/bash
-
-
 
 #resultar em informações sobre cada dispositivo ethernet conectado
 ip addr show
