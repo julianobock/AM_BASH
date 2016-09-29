@@ -1,3 +1,7 @@
+#Programa feito por Juliano Bock da Silva do curso de Redes de Computador da Alcides Maya.
+#Programa tem como finalidade acessar um maquina atravez de SSH e mostrar informações.
+
+
 #!/bin/bash
 
 #Acessa por ssh uma maquina "10.10.65.127"
