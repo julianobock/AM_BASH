@@ -1,4 +1,9 @@
+#Programa feito por Juliano Bock da Silva do curso de Redes de Computador da Alcides Maya.
+#Programa tem como finalidade contar e ordenar palavras de um arquivo
+
 #!/bin/bash
+
+
 
 #Mostra o texto "digite o arquivo"
 echo "digite o arquivo: "
